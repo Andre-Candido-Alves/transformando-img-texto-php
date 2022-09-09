@@ -1,0 +1,8 @@
+{
+    "name": "wdev/image-to-text",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
